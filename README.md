@@ -10,7 +10,7 @@
 
 1 - Librerias a bajo y alto nivel. <br> 
 2 - Namespaces. <br> 
-3 - Tipos de dato headers. <br> 
+3 - tipos de dato identificadores. <br> 
 4 - Tipos de dato estructuras. <br>
 5 - Manejo de funciones a bajo nivel. <br>
 6 - Comprension de parametros en funciones a bajo nivel. <br>
