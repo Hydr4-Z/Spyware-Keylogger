@@ -9,7 +9,7 @@ int main() {
     
     hHook = SetWindowsHookEx(WH_KEYBOARD_LL, MyKeyboardHookProc, GetModuleHandle(NULL), 0);
 
-    if ( hhook == nullptr ) {
+    if ( hHook == nullptr ) {
         std::cerr << "Error al instalar el gancho: " << GetLastError() << std::endl;
         return 1;
     }
